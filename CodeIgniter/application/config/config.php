@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://isra.d4p3r.com/CodeIgniter/';
+$config['base_url']	= 'http://192.168.1.4/CodeIgniter/';
 
 /*
 |--------------------------------------------------------------------------
